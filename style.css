@@ -1,0 +1,13 @@
+.DONE{
+  color : red;
+  text-decoration: line-through;
+}
+
+.TODO{
+  color : green;
+}
+
+.Todolist{
+  text-align: center;
+  margin-bottom: 2em;
+}
